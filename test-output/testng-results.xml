@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="8997" started-at="2018-07-11T04:16:59Z" finished-at="2018-07-11T04:17:08Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="8997" started-at="2018-07-11T04:16:59Z" finished-at="2018-07-11T04:17:08Z">
+      <class name="pomdesign.TestInsideOrderPage">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:pomdesign.TestInsideOrderPage@e25b2fe]" name="setUp" is-config="true" duration-ms="6422" started-at="2018-07-11T04:16:59Z" finished-at="2018-07-11T04:17:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="setUpForMethod()[pri:0, instance:pomdesign.TestInsideOrderPage@e25b2fe]" name="setUpForMethod" is-config="true" duration-ms="594" started-at="2018-07-11T04:17:05Z" finished-at="2018-07-11T04:17:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpForMethod -->
+        <test-method status="PASS" signature="labelsVerifications()[pri:0, instance:pomdesign.TestInsideOrderPage@e25b2fe]" name="labelsVerifications" duration-ms="1332" started-at="2018-07-11T04:17:06Z" description="Testing our main testcase" finished-at="2018-07-11T04:17:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- labelsVerifications -->
+        <test-method status="PASS" signature="LogOut()[pri:0, instance:pomdesign.TestInsideOrderPage@e25b2fe]" name="LogOut" is-config="true" duration-ms="459" started-at="2018-07-11T04:17:07Z" finished-at="2018-07-11T04:17:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LogOut -->
+        <test-method status="PASS" signature="teasdown()[pri:0, instance:pomdesign.TestInsideOrderPage@e25b2fe]" name="teasdown" is-config="true" duration-ms="151" started-at="2018-07-11T04:17:08Z" finished-at="2018-07-11T04:17:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teasdown -->
+      </class> <!-- pomdesign.TestInsideOrderPage -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
