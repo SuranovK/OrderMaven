@@ -25,13 +25,13 @@ public class AllBrowserSettings {
 				driver.manage().window().fullscreen();
 				
 	}
-	@AfterMethod
-	
-	public void LogOut() {
-		InsideOrderPage insideOrderPage = new InsideOrderPage(driver);
-		insideOrderPage.logOutClick.click();
+//	@AfterMethod
+//	
+//	public void LogOut() { 
+//		InsideOrderPage insideOrderPage = new InsideOrderPage(driver);
+//		insideOrderPage.logOutClick.click();
 		
-	}
+//	}
 
 	@AfterClass
 	public void teasdown() {
